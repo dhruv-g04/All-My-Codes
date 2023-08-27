@@ -1,0 +1,1 @@
+{"name":"Local: Quick_Sort","url":"c:\\Users\\iitia\\OneDrive\\Desktop\\CB\\Quick_Sort.cpp","tests":[{"id":1679766071665,"input":"5\n3 6 4 1 2","output":""},{"id":1679766086077,"input":"5\n1 -3 0 5 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iitia\\OneDrive\\Desktop\\CB\\Quick_Sort.cpp","group":"local","local":true}
