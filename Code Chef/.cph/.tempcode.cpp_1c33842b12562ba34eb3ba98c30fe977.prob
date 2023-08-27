@@ -1,0 +1,1 @@
+{"name":"Local: tempcode","url":"c:\\Users\\iitia\\OneDrive\\Desktop\\Code\\Code Chef\\tempcode.cpp","tests":[{"id":1681920143719,"input":"3\n3 5\n1 1 2\n5 10\n4 5 2 3 5\n3 3\n1 1 3","output":"5\n10\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\iitia\\OneDrive\\Desktop\\Code\\Code Chef\\tempcode.cpp","group":"local","local":true}
